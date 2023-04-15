@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddhant54425
-- 👀 I’m interested in learning, exploring, coding, DSA, C++, Python, algorithms 
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning something new in a fun way
+- 🌱 I’m currently learning Java & Javascript
 - 💞️ I’m looking to collaborate on some project 
 - 📫 How to reach me ...
 
