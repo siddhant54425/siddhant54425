@@ -1,3 +1,4 @@
+![logo](https://github.com/siddhant54425/siddhant54425/blob/main/64f78ee1d49618f094e64111_vationventures_datascience-p-1600.webp)
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 <h3 align="center">A passionate Data Scientist and Analysis student from India</h3>
 
